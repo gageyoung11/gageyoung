@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T04:19:10.111Z",
+  "updatedAt": "2026-11-05T07:36:26.518Z",
   "from": "2026-11-05",
   "through": "2026-11-12",
   "leagues": [
@@ -381,21 +381,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401876908"
     },
     {
-      "id": "401877557",
-      "league": "jpn.1",
-      "date": "2026-11-07T04:00Z",
-      "timeConfirmed": true,
-      "home": "Shimizu S-Pulse",
-      "away": "Tokyo Verdy 1969",
-      "venue": "IAI Stadium Nihondaira",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401877557"
-    },
-    {
       "id": "401892143",
       "league": "aus.1",
       "date": "2026-11-07T04:00Z",
@@ -411,6 +396,21 @@
         "ESPN+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401892143"
+    },
+    {
+      "id": "401877557",
+      "league": "jpn.1",
+      "date": "2026-11-07T04:00Z",
+      "timeConfirmed": true,
+      "home": "Shimizu S-Pulse",
+      "away": "Tokyo Verdy 1969",
+      "venue": "IAI Stadium Nihondaira",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877557"
     },
     {
       "id": "401877536",
@@ -1387,6 +1387,40 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401882814"
     },
     {
+      "id": "401875018",
+      "league": "ita.1",
+      "date": "2026-11-08T14:00Z",
+      "timeConfirmed": true,
+      "home": "Genoa",
+      "away": "AC Milan",
+      "venue": "Stadio Luigi Ferraris",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875018"
+    },
+    {
+      "id": "401874800",
+      "league": "ita.1",
+      "date": "2026-11-08T14:00Z",
+      "timeConfirmed": true,
+      "home": "Monza",
+      "away": "Atalanta",
+      "venue": "U-Power Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401874800"
+    },
+    {
       "id": "401879244",
       "league": "eng.1",
       "date": "2026-11-08T14:00Z",
@@ -1454,40 +1488,6 @@
         "Tele"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879239"
-    },
-    {
-      "id": "401875018",
-      "league": "ita.1",
-      "date": "2026-11-08T14:00Z",
-      "timeConfirmed": true,
-      "home": "Genoa",
-      "away": "AC Milan",
-      "venue": "Stadio Luigi Ferraris",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401875018"
-    },
-    {
-      "id": "401874800",
-      "league": "ita.1",
-      "date": "2026-11-08T14:00Z",
-      "timeConfirmed": true,
-      "home": "Monza",
-      "away": "Atalanta",
-      "venue": "U-Power Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401874800"
     },
     {
       "id": "401876406",
@@ -1609,6 +1609,23 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401876408"
     },
     {
+      "id": "401884741",
+      "league": "ger.1",
+      "date": "2026-11-08T16:30Z",
+      "timeConfirmed": true,
+      "home": "SC Freiburg",
+      "away": "1. FC Union Berlin",
+      "venue": "Europa-Park Stadion",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Fandango"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884741"
+    },
+    {
       "id": "401879240",
       "league": "eng.1",
       "date": "2026-11-08T16:30Z",
@@ -1625,23 +1642,6 @@
         "Tele"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879240"
-    },
-    {
-      "id": "401884741",
-      "league": "ger.1",
-      "date": "2026-11-08T16:30Z",
-      "timeConfirmed": true,
-      "home": "SC Freiburg",
-      "away": "1. FC Union Berlin",
-      "venue": "Europa-Park Stadion",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Fandango"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401884741"
     },
     {
       "id": "401874808",
