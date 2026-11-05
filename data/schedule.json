@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:29:33.717Z",
+  "updatedAt": "2026-11-05T19:13:32.303Z",
   "from": "2026-11-05",
   "through": "2026-11-12",
   "leagues": [
@@ -74,8 +74,8 @@
       "home": "Aldosivi",
       "away": "River Plate",
       "venue": "José María Minella",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Second Half",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [],
