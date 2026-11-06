@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-05T19:13:32.303Z",
-  "from": "2026-11-05",
-  "through": "2026-11-12",
+  "updatedAt": "2026-11-06T01:27:39.840Z",
+  "from": "2026-11-06",
+  "through": "2026-11-13",
   "leagues": [
     {
       "id": "eng.1",
@@ -66,66 +66,6 @@
   ],
   "failures": [],
   "matches": [
-    {
-      "id": "401841659",
-      "league": "arg.1",
-      "date": "2026-11-05T18:00Z",
-      "timeConfirmed": true,
-      "home": "Aldosivi",
-      "away": "River Plate",
-      "venue": "José María Minella",
-      "status": "Second Half",
-      "state": "in",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841659"
-    },
-    {
-      "id": "401841667",
-      "league": "arg.1",
-      "date": "2026-11-05T22:15Z",
-      "timeConfirmed": true,
-      "home": "Gimnasia La Plata",
-      "away": "Belgrano (Córdoba)",
-      "venue": "Juan Carmelo Zerillo (El Bosque)",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841667"
-    },
-    {
-      "id": "401841300",
-      "league": "bra.1",
-      "date": "2026-11-05T22:30Z",
-      "timeConfirmed": true,
-      "home": "Palmeiras",
-      "away": "Remo",
-      "venue": "Allianz Parque",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841300"
-    },
-    {
-      "id": "401841303",
-      "league": "bra.1",
-      "date": "2026-11-06T00:30Z",
-      "timeConfirmed": true,
-      "home": "Cruzeiro",
-      "away": "Bahia",
-      "venue": "Estadio Mineirão",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841303"
-    },
     {
       "id": "401892144",
       "league": "aus.1",
@@ -621,7 +561,6 @@
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
-        "Hulu",
         "Fandango"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884740"
