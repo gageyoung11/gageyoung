@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T07:32:47.303Z",
+  "updatedAt": "2026-11-06T13:25:07.018Z",
   "from": "2026-11-06",
   "through": "2026-11-13",
   "leagues": [
@@ -74,10 +74,10 @@
       "home": "Sydney FC",
       "away": "Central Coast Mariners FC",
       "venue": "Allianz Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "4",
+      "awayScore": "1",
       "broadcasters": [
         "ESPN+"
       ],
@@ -321,21 +321,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401876908"
     },
     {
-      "id": "401877557",
-      "league": "jpn.1",
-      "date": "2026-11-07T04:00Z",
-      "timeConfirmed": true,
-      "home": "Shimizu S-Pulse",
-      "away": "Tokyo Verdy 1969",
-      "venue": "IAI Stadium Nihondaira",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401877557"
-    },
-    {
       "id": "401892143",
       "league": "aus.1",
       "date": "2026-11-07T04:00Z",
@@ -351,6 +336,21 @@
         "ESPN+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401892143"
+    },
+    {
+      "id": "401877557",
+      "league": "jpn.1",
+      "date": "2026-11-07T04:00Z",
+      "timeConfirmed": true,
+      "home": "Shimizu S-Pulse",
+      "away": "Tokyo Verdy 1969",
+      "venue": "IAI Stadium Nihondaira",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877557"
     },
     {
       "id": "401877536",
