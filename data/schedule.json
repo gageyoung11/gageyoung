@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T13:10:03.007Z",
+  "updatedAt": "2026-11-07T19:00:21.402Z",
   "from": "2026-11-07",
   "through": "2026-11-14",
   "leagues": [
@@ -183,9 +183,9 @@
       "home": "Leeds United",
       "away": "Tottenham Hotspur",
       "venue": "Elland Road",
-      "status": "First Half",
-      "state": "in",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
       "awayScore": "0",
       "broadcasters": [
         "USA Net",
@@ -201,10 +201,10 @@
       "home": "Málaga",
       "away": "Racing Santander",
       "venue": "La Rosaleda",
-      "status": "First Half",
-      "state": "in",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "2",
       "broadcasters": [
         "ESPN Deportes",
         "ESPN+"
@@ -219,9 +219,9 @@
       "home": "Cagliari",
       "away": "Frosinone",
       "venue": "Unipol Domus",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
       "awayScore": "0",
       "broadcasters": [
         "Paramount+"
@@ -236,10 +236,10 @@
       "home": "Torino",
       "away": "Lecce",
       "venue": "Stadio Olimpico Grande Torino",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "1",
       "broadcasters": [
         "Paramount+"
       ],
@@ -253,10 +253,10 @@
       "home": "Borussia Dortmund",
       "away": "SV Elversberg",
       "venue": "Signal Iduna Park",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
+      "awayScore": "1",
       "broadcasters": [
         "Fandango"
       ],
@@ -270,10 +270,10 @@
       "home": "Mainz",
       "away": "Bayern Munich",
       "venue": "MEWA ARENA",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "2",
       "broadcasters": [
         "Fandango"
       ],
@@ -287,10 +287,10 @@
       "home": "RB Leipzig",
       "away": "FC Augsburg",
       "venue": "Red Bull Arena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "5",
+      "awayScore": "2",
       "broadcasters": [
         "Fandango"
       ],
@@ -304,10 +304,10 @@
       "home": "SC Paderborn 07",
       "away": "Eintracht Frankfurt",
       "venue": "Home Deluxe Arena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
+      "awayScore": "2",
       "broadcasters": [
         "Fandango"
       ],
@@ -321,9 +321,9 @@
       "home": "Arsenal",
       "away": "Hull City",
       "venue": "Emirates Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
       "awayScore": "0",
       "broadcasters": [
         "Peacock",
@@ -339,10 +339,10 @@
       "home": "Fulham",
       "away": "Newcastle United",
       "venue": "Craven Cottage",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "1",
       "broadcasters": [
         "USA Net",
         "Peacock"
@@ -357,8 +357,8 @@
       "home": "Espanyol",
       "away": "Deportivo",
       "venue": "RCDE Stadium",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Full Time",
+      "state": "post",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
@@ -375,10 +375,10 @@
       "home": "Parma",
       "away": "Bologna",
       "venue": "Ennio Tardini",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "2",
       "broadcasters": [
         "Paramount+"
       ],
@@ -392,10 +392,10 @@
       "home": "Nottingham Forest",
       "away": "Manchester City",
       "venue": "The City Ground",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Second Half",
+      "state": "in",
+      "homeScore": "2",
+      "awayScore": "1",
       "broadcasters": [
         "NBC",
         "Tele"
@@ -410,8 +410,8 @@
       "home": "Osasuna",
       "away": "Athletic Club",
       "venue": "El Sadar",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Second Half",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
@@ -428,9 +428,9 @@
       "home": "VfB Stuttgart",
       "away": "Werder Bremen",
       "venue": "MHPArena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Second Half",
+      "state": "in",
+      "homeScore": "1",
       "awayScore": "0",
       "broadcasters": [
         "USA Net"
@@ -445,8 +445,8 @@
       "home": "AJ Auxerre",
       "away": "Paris FC",
       "venue": "Stade de l'Abbé-Deschamps",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Halftime",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
@@ -462,9 +462,9 @@
       "home": "Gimnasia (Mendoza)",
       "away": "Independiente Rivadavia",
       "venue": "Estadio Víctor Antonio Legrotaglie",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Halftime",
+      "state": "in",
+      "homeScore": "1",
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841666"
@@ -477,10 +477,10 @@
       "home": "Talleres (Córdoba)",
       "away": "Estudiantes de La Plata",
       "venue": "Mario Alberto Kempes",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Halftime",
+      "state": "in",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841661"
     },
