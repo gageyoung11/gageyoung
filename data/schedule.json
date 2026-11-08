@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T07:21:04.739Z",
+  "updatedAt": "2026-11-08T13:09:34.586Z",
   "from": "2026-11-08",
   "through": "2026-11-15",
   "leagues": [
@@ -104,10 +104,10 @@
       "home": "Gamba Osaka",
       "away": "Cerezo Osaka",
       "venue": "Suita City Football Stadium",
-      "status": "Second Half",
-      "state": "in",
-      "homeScore": "1",
-      "awayScore": "1",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
+      "awayScore": "3",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401877555"
     },
@@ -119,10 +119,10 @@
       "home": "Adelaide United FC",
       "away": "Melbourne Victory",
       "venue": "Hindmarsh Stadium",
-      "status": "Second Half",
-      "state": "in",
-      "homeScore": "1",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
+      "awayScore": "2",
       "broadcasters": [
         "ESPN+"
       ],
@@ -136,9 +136,9 @@
       "home": "JEF United Ichihara-Chiba",
       "away": "Mito Hollyhock",
       "venue": "Fukuda Denshi Arena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401877577"
@@ -151,10 +151,10 @@
       "home": "Napoli",
       "away": "Lazio",
       "venue": "Stadio Diego Armando Maradona",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Second Half",
+      "state": "in",
+      "homeScore": "1",
+      "awayScore": "1",
       "broadcasters": [
         "Paramount+"
       ],
@@ -168,8 +168,8 @@
       "home": "Elche",
       "away": "Real Betis",
       "venue": "Estadio Martínez Valero",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "First Half",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
