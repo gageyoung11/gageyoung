@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-10T19:13:50.179Z",
-  "from": "2026-11-10",
-  "through": "2026-11-17",
+  "updatedAt": "2026-11-11T01:22:52.606Z",
+  "from": "2026-11-11",
+  "through": "2026-11-18",
   "leagues": [
     {
       "id": "eng.1",
@@ -110,6 +110,96 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841175"
+    },
+    {
+      "id": "401841315",
+      "league": "bra.1",
+      "date": "2026-11-18T22:30Z",
+      "timeConfirmed": true,
+      "home": "Coritiba",
+      "away": "Santos",
+      "venue": "Couto Pereira",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841315"
+    },
+    {
+      "id": "401841310",
+      "league": "bra.1",
+      "date": "2026-11-18T23:00Z",
+      "timeConfirmed": true,
+      "home": "Remo",
+      "away": "Chapecoense",
+      "venue": "Mangueirão",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841310"
+    },
+    {
+      "id": "401841314",
+      "league": "bra.1",
+      "date": "2026-11-18T23:30Z",
+      "timeConfirmed": true,
+      "home": "Cruzeiro",
+      "away": "Palmeiras",
+      "venue": "Estadio Mineirão",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841314"
+    },
+    {
+      "id": "401841313",
+      "league": "bra.1",
+      "date": "2026-11-18T23:30Z",
+      "timeConfirmed": true,
+      "home": "Flamengo",
+      "away": "Athletico-PR",
+      "venue": "Estadio do Maracana",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841313"
+    },
+    {
+      "id": "401841316",
+      "league": "bra.1",
+      "date": "2026-11-19T00:30Z",
+      "timeConfirmed": true,
+      "home": "Corinthians",
+      "away": "Botafogo",
+      "venue": "Neo Química Arena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841316"
+    },
+    {
+      "id": "401841312",
+      "league": "bra.1",
+      "date": "2026-11-19T00:30Z",
+      "timeConfirmed": true,
+      "home": "Grêmio",
+      "away": "Bahia",
+      "venue": "Arena do Grêmio",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841312"
     }
   ]
 }
