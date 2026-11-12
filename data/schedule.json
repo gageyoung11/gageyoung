@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-11T23:55:14.109Z",
-  "from": "2026-11-11",
-  "through": "2026-11-18",
+  "updatedAt": "2026-11-12T01:30:07.945Z",
+  "from": "2026-11-12",
+  "through": "2026-11-19",
   "leagues": [
     {
       "id": "eng.1",
@@ -200,6 +200,85 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841312"
+    },
+    {
+      "id": "401841308",
+      "league": "bra.1",
+      "date": "2026-11-19T22:30Z",
+      "timeConfirmed": true,
+      "home": "Vasco da Gama",
+      "away": "Internacional",
+      "venue": "Estádio São Januário",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841308"
+    },
+    {
+      "id": "401841317",
+      "league": "bra.1",
+      "date": "2026-11-19T22:30Z",
+      "timeConfirmed": true,
+      "home": "Vitória",
+      "away": "Red Bull Bragantino",
+      "venue": "Estadio Manoel Barradas",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841317"
+    },
+    {
+      "id": "401933535",
+      "league": "usa.1",
+      "date": "2026-11-20T00:30Z",
+      "timeConfirmed": true,
+      "home": "Orlando City SC",
+      "away": "FC Cincinnati",
+      "venue": "Inter&Co Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Apple TV"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933535"
+    },
+    {
+      "id": "401841309",
+      "league": "bra.1",
+      "date": "2026-11-20T00:30Z",
+      "timeConfirmed": true,
+      "home": "São Paulo",
+      "away": "Fluminense",
+      "venue": "Estádio Cícero Pompeu de Toledo",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841309"
+    },
+    {
+      "id": "401933555",
+      "league": "usa.1",
+      "date": "2026-11-20T03:00Z",
+      "timeConfirmed": true,
+      "home": "Seattle Sounders FC",
+      "away": "Real Salt Lake",
+      "venue": "Lumen Field",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Apple TV"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933555"
     }
   ]
 }
