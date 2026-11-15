@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T07:24:17.403Z",
+  "updatedAt": "2026-11-15T13:12:13.119Z",
   "from": "2026-11-15",
   "through": "2026-11-22",
   "leagues": [
@@ -483,6 +483,23 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401877533"
     },
     {
+      "id": "401892136",
+      "league": "aus.1",
+      "date": "2026-11-21T06:00Z",
+      "timeConfirmed": true,
+      "home": "Central Coast Mariners FC",
+      "away": "Perth Glory FC",
+      "venue": "Central Coast Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401892136"
+    },
+    {
       "id": "401877549",
       "league": "jpn.1",
       "date": "2026-11-21T06:00Z",
@@ -511,23 +528,6 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401877551"
-    },
-    {
-      "id": "401892136",
-      "league": "aus.1",
-      "date": "2026-11-21T06:00Z",
-      "timeConfirmed": true,
-      "home": "Central Coast Mariners FC",
-      "away": "Perth Glory FC",
-      "venue": "Central Coast Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "ESPN+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401892136"
     },
     {
       "id": "401877532",
