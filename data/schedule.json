@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-15T19:02:02.201Z",
-  "from": "2026-11-15",
-  "through": "2026-11-22",
+  "updatedAt": "2026-11-16T01:41:48.766Z",
+  "from": "2026-11-16",
+  "through": "2026-11-23",
   "leagues": [
     {
       "id": "eng.1",
@@ -829,6 +829,21 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401874967"
     },
     {
+      "id": "401879232",
+      "league": "eng.1",
+      "date": "2026-11-21T17:30Z",
+      "timeConfirmed": true,
+      "home": "Newcastle United",
+      "away": "Arsenal",
+      "venue": "St. James' Park",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879232"
+    },
+    {
       "id": "401882797",
       "league": "esp.1",
       "date": "2026-11-21T17:30Z",
@@ -845,21 +860,6 @@
         "ESPN+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401882797"
-    },
-    {
-      "id": "401879232",
-      "league": "eng.1",
-      "date": "2026-11-21T17:30Z",
-      "timeConfirmed": true,
-      "home": "Newcastle United",
-      "away": "Arsenal",
-      "venue": "St. James' Park",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401879232"
     },
     {
       "id": "401884729",
@@ -1608,6 +1608,134 @@
         "Apple TV"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401933729"
+    },
+    {
+      "id": "401875009",
+      "league": "ita.1",
+      "date": "2026-11-23T19:45Z",
+      "timeConfirmed": true,
+      "home": "Monza",
+      "away": "Fiorentina",
+      "venue": "U-Power Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875009"
+    },
+    {
+      "id": "401879237",
+      "league": "eng.1",
+      "date": "2026-11-23T20:00Z",
+      "timeConfirmed": true,
+      "home": "Brentford",
+      "away": "Everton",
+      "venue": "Gtech Community Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879237"
+    },
+    {
+      "id": "401882802",
+      "league": "esp.1",
+      "date": "2026-11-23T20:00Z",
+      "timeConfirmed": true,
+      "home": "Levante",
+      "away": "Elche",
+      "venue": "Estadi Ciutat de València",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882802"
+    },
+    {
+      "id": "401933756",
+      "league": "arg.1",
+      "date": "2026-11-23T20:00Z",
+      "timeConfirmed": true,
+      "home": "Gimnasia La Plata",
+      "away": "Newell's Old Boys",
+      "venue": "Juan Carmelo Zerillo (El Bosque)",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933756"
+    },
+    {
+      "id": "401841323",
+      "league": "bra.1",
+      "date": "2026-11-23T22:30Z",
+      "timeConfirmed": true,
+      "home": "Internacional",
+      "away": "Vitória",
+      "venue": "Estadio Beira-Rio",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841323"
+    },
+    {
+      "id": "401841326",
+      "league": "bra.1",
+      "date": "2026-11-23T23:00Z",
+      "timeConfirmed": true,
+      "home": "Botafogo",
+      "away": "São Paulo",
+      "venue": "Joao Havelange Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841326"
+    },
+    {
+      "id": "401841320",
+      "league": "bra.1",
+      "date": "2026-11-24T00:00Z",
+      "timeConfirmed": true,
+      "home": "Santos",
+      "away": "Grêmio",
+      "venue": "Estádio Cícero Pompeu de Toledo",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841320"
+    },
+    {
+      "id": "401933728",
+      "league": "usa.1",
+      "date": "2026-11-24T01:00Z",
+      "timeConfirmed": true,
+      "home": "St. Louis CITY SC",
+      "away": "LAFC",
+      "venue": "Energizer Park",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "FS1",
+        "Apple TV"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933728"
     }
   ]
 }
