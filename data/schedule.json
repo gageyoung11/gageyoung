@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-16T19:15:04.199Z",
-  "from": "2026-11-16",
-  "through": "2026-11-23",
+  "updatedAt": "2026-11-17T01:30:03.030Z",
+  "from": "2026-11-17",
+  "through": "2026-11-24",
   "leagues": [
     {
       "id": "eng.1",
@@ -1736,6 +1736,192 @@
         "Apple TV"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401933728"
+    },
+    {
+      "id": "401915380",
+      "league": "uefa.champions",
+      "date": "2026-11-24T17:45Z",
+      "timeConfirmed": true,
+      "home": "Bodo/Glimt",
+      "away": "LASK Linz",
+      "venue": "Aspmyra Stadion",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915380"
+    },
+    {
+      "id": "401915300",
+      "league": "uefa.champions",
+      "date": "2026-11-24T17:45Z",
+      "timeConfirmed": true,
+      "home": "Galatasaray",
+      "away": "Aston Villa",
+      "venue": "RAMS Park",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915300"
+    },
+    {
+      "id": "401915295",
+      "league": "uefa.champions",
+      "date": "2026-11-24T20:00Z",
+      "timeConfirmed": true,
+      "home": "Arsenal",
+      "away": "Borussia Dortmund",
+      "venue": "Emirates Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915295"
+    },
+    {
+      "id": "401915296",
+      "league": "uefa.champions",
+      "date": "2026-11-24T20:00Z",
+      "timeConfirmed": true,
+      "home": "Como",
+      "away": "AEK Athens",
+      "venue": "Giuseppe Sinigaglia",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915296"
+    },
+    {
+      "id": "401915294",
+      "league": "uefa.champions",
+      "date": "2026-11-24T20:00Z",
+      "timeConfirmed": true,
+      "home": "Feyenoord Rotterdam",
+      "away": "FC Porto",
+      "venue": "De Kuip",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915294"
+    },
+    {
+      "id": "401915379",
+      "league": "uefa.champions",
+      "date": "2026-11-24T20:00Z",
+      "timeConfirmed": true,
+      "home": "Manchester City",
+      "away": "Napoli",
+      "venue": "Etihad Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915379"
+    },
+    {
+      "id": "401915299",
+      "league": "uefa.champions",
+      "date": "2026-11-24T20:00Z",
+      "timeConfirmed": true,
+      "home": "RB Leipzig",
+      "away": "Lens",
+      "venue": "Red Bull Arena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915299"
+    },
+    {
+      "id": "401915298",
+      "league": "uefa.champions",
+      "date": "2026-11-24T20:00Z",
+      "timeConfirmed": true,
+      "home": "Real Madrid",
+      "away": "PSV Eindhoven",
+      "venue": "Santiago Bernabéu",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915298"
+    },
+    {
+      "id": "401915297",
+      "league": "uefa.champions",
+      "date": "2026-11-24T20:00Z",
+      "timeConfirmed": true,
+      "home": "Slovan Bratislava",
+      "away": "Real Betis",
+      "venue": "Národny Futbalovy Stadión",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915297"
+    },
+    {
+      "id": "401841335",
+      "league": "bra.1",
+      "date": "2026-11-24T21:00Z",
+      "timeConfirmed": true,
+      "home": "Chapecoense",
+      "away": "Palmeiras",
+      "venue": "Arena Condá",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841335"
+    },
+    {
+      "id": "401933738",
+      "league": "usa.1",
+      "date": "2026-11-25T03:00Z",
+      "timeConfirmed": true,
+      "home": "San Jose Earthquakes",
+      "away": "Houston Dynamo FC",
+      "venue": "PayPal Park",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "FS1",
+        "Apple TV"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933738"
     }
   ]
 }
