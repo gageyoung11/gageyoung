@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T07:38:10.397Z",
+  "updatedAt": "2026-11-17T13:28:54.020Z",
   "from": "2026-11-17",
   "through": "2026-11-24",
   "leagues": [
@@ -393,7 +393,7 @@
     {
       "id": "401877052",
       "league": "mex.1",
-      "date": "2026-11-21T03:00Z",
+      "date": "2026-11-21T03:10Z",
       "timeConfirmed": true,
       "home": "Tijuana",
       "away": "Atlante",
@@ -1563,21 +1563,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401933730"
     },
     {
-      "id": "401877046",
-      "league": "mex.1",
-      "date": "2026-11-23T01:00Z",
-      "timeConfirmed": true,
-      "home": "Querétaro",
-      "away": "Necaxa",
-      "venue": "Estadio Corregidora",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401877046"
-    },
-    {
       "id": "401933762",
       "league": "arg.1",
       "date": "2026-11-23T01:00Z",
@@ -1591,6 +1576,21 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401933762"
+    },
+    {
+      "id": "401877046",
+      "league": "mex.1",
+      "date": "2026-11-23T01:10Z",
+      "timeConfirmed": true,
+      "home": "Querétaro",
+      "away": "Necaxa",
+      "venue": "Estadio Corregidora",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877046"
     },
     {
       "id": "401933729",
