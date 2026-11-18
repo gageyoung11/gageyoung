@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T13:31:28.444Z",
+  "updatedAt": "2026-11-18T19:14:36.165Z",
   "from": "2026-11-18",
   "through": "2026-11-25",
   "leagues": [
@@ -576,7 +576,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Universo"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879233"
     },
     {
@@ -728,7 +731,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879238"
     },
     {
@@ -743,7 +748,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401878756"
     },
     {
@@ -758,7 +765,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879236"
     },
     {
@@ -773,7 +782,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879235"
     },
     {
@@ -788,7 +799,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Universo"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401878754"
     },
     {
@@ -855,7 +869,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Tele"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879232"
     },
     {
@@ -1240,8 +1257,28 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Tele"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879234"
+    },
+    {
+      "id": "401876397",
+      "league": "fra.1",
+      "date": "2026-11-22T14:00Z",
+      "timeConfirmed": true,
+      "home": "Paris FC",
+      "away": "Angers",
+      "venue": "Stade Jean Bouin",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "beIn Sports"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876397"
     },
     {
       "id": "401875047",
@@ -1276,23 +1313,6 @@
         "Paramount+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401874960"
-    },
-    {
-      "id": "401876397",
-      "league": "fra.1",
-      "date": "2026-11-22T14:00Z",
-      "timeConfirmed": true,
-      "home": "Paris FC",
-      "away": "Angers",
-      "venue": "Stade Jean Bouin",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876397"
     },
     {
       "id": "401884733",
@@ -1358,7 +1378,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Tele"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401878755"
     },
     {
@@ -1444,23 +1467,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401933759"
     },
     {
-      "id": "401875001",
-      "league": "ita.1",
-      "date": "2026-11-22T19:45Z",
-      "timeConfirmed": true,
-      "home": "Atalanta",
-      "away": "Internazionale",
-      "venue": "New Balance Arena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401875001"
-    },
-    {
       "id": "401876400",
       "league": "fra.1",
       "date": "2026-11-22T19:45Z",
@@ -1476,6 +1482,23 @@
         "beIn Sports"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876400"
+    },
+    {
+      "id": "401875001",
+      "league": "ita.1",
+      "date": "2026-11-22T19:45Z",
+      "timeConfirmed": true,
+      "home": "Atalanta",
+      "away": "Internazionale",
+      "venue": "New Balance Arena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875001"
     },
     {
       "id": "401882803",
@@ -1667,7 +1690,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879237"
     },
     {
