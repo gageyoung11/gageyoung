@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-17T19:20:22.312Z",
-  "from": "2026-11-17",
-  "through": "2026-11-24",
+  "updatedAt": "2026-11-18T01:35:53.777Z",
+  "from": "2026-11-18",
+  "through": "2026-11-25",
   "leagues": [
     {
       "id": "eng.1",
@@ -309,7 +309,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884736"
     },
     {
@@ -640,7 +643,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884732"
     },
     {
@@ -655,7 +660,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884735"
     },
     {
@@ -670,7 +677,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884731"
     },
     {
@@ -685,7 +694,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884734"
     },
     {
@@ -700,7 +711,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884728"
     },
     {
@@ -808,7 +821,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876398"
     },
     {
@@ -873,7 +888,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884729"
     },
     {
@@ -952,7 +969,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876399"
     },
     {
@@ -1270,7 +1289,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876397"
     },
     {
@@ -1285,7 +1306,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884733"
     },
     {
@@ -1318,7 +1341,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876401"
     },
     {
@@ -1348,7 +1373,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884730"
     },
     {
@@ -1445,7 +1472,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876400"
     },
     {
@@ -1922,6 +1951,294 @@
         "Apple TV"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401933738"
+    },
+    {
+      "id": "401877527",
+      "league": "jpn.1",
+      "date": "2026-11-25T10:00Z",
+      "timeConfirmed": true,
+      "home": "Avispa Fukuoka",
+      "away": "Yokohama F. Marinos",
+      "venue": "Best Denki Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877527"
+    },
+    {
+      "id": "401877528",
+      "league": "jpn.1",
+      "date": "2026-11-25T10:00Z",
+      "timeConfirmed": true,
+      "home": "Fagiano Okayama",
+      "away": "Shimizu S-Pulse",
+      "venue": "City Light Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877528"
+    },
+    {
+      "id": "401877546",
+      "league": "jpn.1",
+      "date": "2026-11-25T10:00Z",
+      "timeConfirmed": true,
+      "home": "FC Tokyo",
+      "away": "Sanfrecce Hiroshima",
+      "venue": "Tokyo Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877546"
+    },
+    {
+      "id": "401877529",
+      "league": "jpn.1",
+      "date": "2026-11-25T10:00Z",
+      "timeConfirmed": true,
+      "home": "JEF United Ichihara-Chiba",
+      "away": "Nagoya Grampus",
+      "venue": "Fukuda Denshi Arena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877529"
+    },
+    {
+      "id": "401877530",
+      "league": "jpn.1",
+      "date": "2026-11-25T10:00Z",
+      "timeConfirmed": true,
+      "home": "Mito Hollyhock",
+      "away": "Tokyo Verdy 1969",
+      "venue": "Kasamatsu Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877530"
+    },
+    {
+      "id": "401877545",
+      "league": "jpn.1",
+      "date": "2026-11-25T10:00Z",
+      "timeConfirmed": true,
+      "home": "V-Varen Nagasaki",
+      "away": "Kawasaki Frontale",
+      "venue": "PEACE STADIUM Connected by SoftBank",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877545"
+    },
+    {
+      "id": "401877547",
+      "league": "jpn.1",
+      "date": "2026-11-25T10:30Z",
+      "timeConfirmed": true,
+      "home": "Urawa Red Diamonds",
+      "away": "Cerezo Osaka",
+      "venue": "Saitama Stadium 2002",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877547"
+    },
+    {
+      "id": "401915378",
+      "league": "uefa.champions",
+      "date": "2026-11-25T17:45Z",
+      "timeConfirmed": true,
+      "home": "Sabah FK",
+      "away": "Barcelona",
+      "venue": "Baku Olympic Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915378"
+    },
+    {
+      "id": "401915293",
+      "league": "uefa.champions",
+      "date": "2026-11-25T17:45Z",
+      "timeConfirmed": true,
+      "home": "Slavia Prague",
+      "away": "Villarreal",
+      "venue": "Fortuna Arena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915293"
+    },
+    {
+      "id": "401915291",
+      "league": "uefa.champions",
+      "date": "2026-11-25T20:00Z",
+      "timeConfirmed": true,
+      "home": "Atlético Madrid",
+      "away": "Viking FK",
+      "venue": "Riyadh Air Metropolitano",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915291"
+    },
+    {
+      "id": "401915292",
+      "league": "uefa.champions",
+      "date": "2026-11-25T20:00Z",
+      "timeConfirmed": true,
+      "home": "Club Brugge",
+      "away": "Liverpool",
+      "venue": "Jan Breydel Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915292"
+    },
+    {
+      "id": "401915376",
+      "league": "uefa.champions",
+      "date": "2026-11-25T20:00Z",
+      "timeConfirmed": true,
+      "home": "Internazionale",
+      "away": "VfB Stuttgart",
+      "venue": "San Siro",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915376"
+    },
+    {
+      "id": "401915377",
+      "league": "uefa.champions",
+      "date": "2026-11-25T20:00Z",
+      "timeConfirmed": true,
+      "home": "Lille",
+      "away": "Bayern Munich",
+      "venue": "Decathlon Arena - Stade Pierre-Mauroy",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915377"
+    },
+    {
+      "id": "401915374",
+      "league": "uefa.champions",
+      "date": "2026-11-25T20:00Z",
+      "timeConfirmed": true,
+      "home": "Paris Saint-Germain",
+      "away": "AS Roma",
+      "venue": "Parc des Princes",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915374"
+    },
+    {
+      "id": "401915375",
+      "league": "uefa.champions",
+      "date": "2026-11-25T20:00Z",
+      "timeConfirmed": true,
+      "home": "Shakhtar Donetsk",
+      "away": "Fenerbahce",
+      "venue": "Stamford Bridge",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915375"
+    },
+    {
+      "id": "401915373",
+      "league": "uefa.champions",
+      "date": "2026-11-25T20:00Z",
+      "timeConfirmed": true,
+      "home": "Sporting CP",
+      "away": "Manchester United",
+      "venue": "Estádio José Alvalade",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401915373"
+    },
+    {
+      "id": "401841319",
+      "league": "bra.1",
+      "date": "2026-11-25T23:00Z",
+      "timeConfirmed": true,
+      "home": "Atlético-MG",
+      "away": "Corinthians",
+      "venue": "Arena MRV",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841319"
+    },
+    {
+      "id": "401933757",
+      "league": "arg.1",
+      "date": "2026-11-26T00:00Z",
+      "timeConfirmed": true,
+      "home": "Boca Juniors",
+      "away": "Independiente Rivadavia",
+      "venue": "Alberto José Armando (La Bombonera)",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933757"
     }
   ]
 }
