@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T01:35:53.777Z",
+  "updatedAt": "2026-11-18T07:36:17.042Z",
   "from": "2026-11-18",
   "through": "2026-11-25",
   "leagues": [
@@ -1229,21 +1229,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401882804"
     },
     {
-      "id": "401879234",
-      "league": "eng.1",
-      "date": "2026-11-22T14:00Z",
-      "timeConfirmed": true,
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "venue": "The MKM Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401879234"
-    },
-    {
       "id": "401875047",
       "league": "ita.1",
       "date": "2026-11-22T14:00Z",
@@ -1276,6 +1261,21 @@
         "Paramount+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401874960"
+    },
+    {
+      "id": "401879234",
+      "league": "eng.1",
+      "date": "2026-11-22T14:00Z",
+      "timeConfirmed": true,
+      "home": "Hull City",
+      "away": "Brighton & Hove Albion",
+      "venue": "The MKM Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879234"
     },
     {
       "id": "401876397",
@@ -1347,21 +1347,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401876401"
     },
     {
-      "id": "401878755",
-      "league": "eng.1",
-      "date": "2026-11-22T16:30Z",
-      "timeConfirmed": true,
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "venue": "Anfield",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401878755"
-    },
-    {
       "id": "401884730",
       "league": "ger.1",
       "date": "2026-11-22T16:30Z",
@@ -1377,6 +1362,21 @@
         "Fandango"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884730"
+    },
+    {
+      "id": "401878755",
+      "league": "eng.1",
+      "date": "2026-11-22T16:30Z",
+      "timeConfirmed": true,
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "venue": "Anfield",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401878755"
     },
     {
       "id": "401874989",
@@ -1414,21 +1414,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401882801"
     },
     {
-      "id": "401841318",
-      "league": "bra.1",
-      "date": "2026-11-22T19:00Z",
-      "timeConfirmed": true,
-      "home": "Athletico-PR",
-      "away": "Remo",
-      "venue": "Arena da Baixada",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841318"
-    },
-    {
       "id": "401933759",
       "league": "arg.1",
       "date": "2026-11-22T19:00Z",
@@ -1442,6 +1427,21 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401933759"
+    },
+    {
+      "id": "401841318",
+      "league": "bra.1",
+      "date": "2026-11-22T19:00Z",
+      "timeConfirmed": true,
+      "home": "Athletico-PR",
+      "away": "Remo",
+      "venue": "Arena da Baixada",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841318"
     },
     {
       "id": "401875001",
