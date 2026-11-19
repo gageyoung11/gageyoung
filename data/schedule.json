@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T07:39:05.617Z",
+  "updatedAt": "2026-11-19T13:34:59.291Z",
   "from": "2026-11-19",
   "through": "2026-11-26",
   "leagues": [
@@ -768,24 +768,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401874967"
     },
     {
-      "id": "401879232",
-      "league": "eng.1",
-      "date": "2026-11-21T17:30Z",
-      "timeConfirmed": true,
-      "home": "Newcastle United",
-      "away": "Arsenal",
-      "venue": "St. James' Park",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "USA Net",
-        "Tele"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401879232"
-    },
-    {
       "id": "401882797",
       "league": "esp.1",
       "date": "2026-11-21T17:30Z",
@@ -802,6 +784,24 @@
         "ESPN+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401882797"
+    },
+    {
+      "id": "401879232",
+      "league": "eng.1",
+      "date": "2026-11-21T17:30Z",
+      "timeConfirmed": true,
+      "home": "Newcastle United",
+      "away": "Arsenal",
+      "venue": "St. James' Park",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "USA Net",
+        "Tele"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879232"
     },
     {
       "id": "401884729",
