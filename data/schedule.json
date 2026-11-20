@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T13:30:07.946Z",
+  "updatedAt": "2026-11-20T19:19:15.144Z",
   "from": "2026-11-20",
   "through": "2026-11-27",
   "leagues": [
@@ -141,8 +141,7 @@
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
-        "USA Net",
-        "Fandango"
+        "USA Net"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884736"
     },
@@ -317,23 +316,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401877533"
     },
     {
-      "id": "401892136",
-      "league": "aus.1",
-      "date": "2026-11-21T06:00Z",
-      "timeConfirmed": true,
-      "home": "Central Coast Mariners FC",
-      "away": "Perth Glory FC",
-      "venue": "Central Coast Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "ESPN+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401892136"
-    },
-    {
       "id": "401877549",
       "league": "jpn.1",
       "date": "2026-11-21T06:00Z",
@@ -362,6 +344,23 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401877551"
+    },
+    {
+      "id": "401892136",
+      "league": "aus.1",
+      "date": "2026-11-21T06:00Z",
+      "timeConfirmed": true,
+      "home": "Central Coast Mariners FC",
+      "away": "Perth Glory FC",
+      "venue": "Central Coast Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401892136"
     },
     {
       "id": "401877532",
@@ -1268,21 +1267,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401882801"
     },
     {
-      "id": "401933759",
-      "league": "arg.1",
-      "date": "2026-11-22T19:00Z",
-      "timeConfirmed": true,
-      "home": "Rosario Central",
-      "away": "Gimnasia (Mendoza)",
-      "venue": "Gigante de Arroyito",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933759"
-    },
-    {
       "id": "401841318",
       "league": "bra.1",
       "date": "2026-11-22T19:00Z",
@@ -1296,6 +1280,21 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841318"
+    },
+    {
+      "id": "401933759",
+      "league": "arg.1",
+      "date": "2026-11-22T19:00Z",
+      "timeConfirmed": true,
+      "home": "Rosario Central",
+      "away": "Gimnasia (Mendoza)",
+      "venue": "Gigante de Arroyito",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933759"
     },
     {
       "id": "401875001",
