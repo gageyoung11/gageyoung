@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-19T19:16:32.632Z",
-  "from": "2026-11-19",
-  "through": "2026-11-26",
+  "updatedAt": "2026-11-20T01:27:20.086Z",
+  "from": "2026-11-20",
+  "through": "2026-11-27",
   "leagues": [
     {
       "id": "eng.1",
@@ -66,85 +66,6 @@
   ],
   "failures": [],
   "matches": [
-    {
-      "id": "401841308",
-      "league": "bra.1",
-      "date": "2026-11-19T22:30Z",
-      "timeConfirmed": true,
-      "home": "Vasco da Gama",
-      "away": "Internacional",
-      "venue": "Estádio São Januário",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841308"
-    },
-    {
-      "id": "401841317",
-      "league": "bra.1",
-      "date": "2026-11-19T22:30Z",
-      "timeConfirmed": true,
-      "home": "Vitória",
-      "away": "Red Bull Bragantino",
-      "venue": "Estadio Manoel Barradas",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841317"
-    },
-    {
-      "id": "401933535",
-      "league": "usa.1",
-      "date": "2026-11-20T00:30Z",
-      "timeConfirmed": true,
-      "home": "Orlando City SC",
-      "away": "FC Cincinnati",
-      "venue": "Inter&Co Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Apple TV"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933535"
-    },
-    {
-      "id": "401841309",
-      "league": "bra.1",
-      "date": "2026-11-20T00:30Z",
-      "timeConfirmed": true,
-      "home": "São Paulo",
-      "away": "Fluminense",
-      "venue": "Estádio Cícero Pompeu de Toledo",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841309"
-    },
-    {
-      "id": "401933555",
-      "league": "usa.1",
-      "date": "2026-11-20T03:00Z",
-      "timeConfirmed": true,
-      "home": "Seattle Sounders FC",
-      "away": "Real Salt Lake",
-      "venue": "Lumen Field",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Apple TV"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933555"
-    },
     {
       "id": "401892138",
       "league": "aus.1",
@@ -2189,6 +2110,154 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841329"
+    },
+    {
+      "id": "401892133",
+      "league": "aus.1",
+      "date": "2026-11-27T08:40Z",
+      "timeConfirmed": true,
+      "home": "Macarthur FC",
+      "away": "Melbourne City FC",
+      "venue": "Campbelltown Sports Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401892133"
+    },
+    {
+      "id": "401884720",
+      "league": "ger.1",
+      "date": "2026-11-27T19:30Z",
+      "timeConfirmed": true,
+      "home": "Werder Bremen",
+      "away": "Borussia Mönchengladbach",
+      "venue": "Weserstadion",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884720"
+    },
+    {
+      "id": "401875004",
+      "league": "ita.1",
+      "date": "2026-11-27T19:45Z",
+      "timeConfirmed": true,
+      "home": "Venezia",
+      "away": "Bologna",
+      "venue": "Stadio Pier Luigi Penzo",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875004"
+    },
+    {
+      "id": "401876392",
+      "league": "fra.1",
+      "date": "2026-11-27T19:45Z",
+      "timeConfirmed": true,
+      "home": "Brest",
+      "away": "Paris FC",
+      "venue": "Stade Francis-Le Blé",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876392"
+    },
+    {
+      "id": "401879225",
+      "league": "eng.1",
+      "date": "2026-11-27T20:00Z",
+      "timeConfirmed": true,
+      "home": "Nottingham Forest",
+      "away": "Chelsea",
+      "venue": "The City Ground",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401879225"
+    },
+    {
+      "id": "401882791",
+      "league": "esp.1",
+      "date": "2026-11-27T20:00Z",
+      "timeConfirmed": true,
+      "home": "Levante",
+      "away": "Racing Santander",
+      "venue": "Estadi Ciutat de València",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882791"
+    },
+    {
+      "id": "401841337",
+      "league": "bra.1",
+      "date": "2026-11-27T23:00Z",
+      "timeConfirmed": true,
+      "home": "Fluminense",
+      "away": "Cruzeiro",
+      "venue": "Estadio do Maracana",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401841337"
+    },
+    {
+      "id": "401933727",
+      "league": "usa.1",
+      "date": "2026-11-28T01:00Z",
+      "timeConfirmed": true,
+      "home": "Columbus Crew",
+      "away": "Inter Miami CF",
+      "venue": "ScottsMiracle-Gro Field",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "FS1",
+        "Apple TV"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933727"
+    },
+    {
+      "id": "401933725",
+      "league": "usa.1",
+      "date": "2026-11-28T03:00Z",
+      "timeConfirmed": true,
+      "home": "TBD Home",
+      "away": "Vancouver Whitecaps",
+      "venue": "",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "FS1",
+        "Apple TV"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933725"
     }
   ]
 }
