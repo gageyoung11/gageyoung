@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T13:16:04.536Z",
+  "updatedAt": "2026-11-21T19:05:15.544Z",
   "from": "2026-11-21",
   "through": "2026-11-28",
   "leagues": [
@@ -213,9 +213,9 @@
       "home": "Manchester City",
       "away": "Fulham",
       "venue": "Etihad Stadium",
-      "status": "First Half",
-      "state": "in",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
       "awayScore": "1",
       "broadcasters": [
         "USA Net",
@@ -231,10 +231,10 @@
       "home": "Alavés",
       "away": "Deportivo",
       "venue": "Mendizorrotza",
-      "status": "First Half",
-      "state": "in",
-      "homeScore": "1",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "3",
+      "awayScore": "1",
       "broadcasters": [
         "ESPN Deportes",
         "ESPN+"
@@ -249,9 +249,9 @@
       "home": "Como",
       "away": "Cagliari",
       "venue": "Giuseppe Sinigaglia",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
       "awayScore": "0",
       "broadcasters": [
         "Paramount+"
@@ -266,9 +266,9 @@
       "home": "Lazio",
       "away": "Lecce",
       "venue": "Olimpico",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "3",
       "awayScore": "0",
       "broadcasters": [
         "Paramount+"
@@ -283,10 +283,10 @@
       "home": "1. FC Union Berlin",
       "away": "RB Leipzig",
       "venue": "Stadion An der Alten Försterei",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "5",
       "broadcasters": [
         "Fandango"
       ],
@@ -300,9 +300,9 @@
       "home": "Bayer Leverkusen",
       "away": "SC Paderborn 07",
       "venue": "BayArena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "4",
       "awayScore": "0",
       "broadcasters": [
         "Fandango"
@@ -317,10 +317,10 @@
       "home": "Borussia Mönchengladbach",
       "away": "Borussia Dortmund",
       "venue": "BORUSSIA-PARK",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Full Time",
+      "state": "post",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [
         "Fandango"
       ],
@@ -334,9 +334,9 @@
       "home": "Eintracht Frankfurt",
       "away": "TSG Hoffenheim",
       "venue": "Deutsche Bank Park",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
       "awayScore": "0",
       "broadcasters": [
         "Fandango"
@@ -351,10 +351,10 @@
       "home": "SV Elversberg",
       "away": "SC Freiburg",
       "venue": "URSAPHARM-Arena an der Kaiserlinde",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Full Time",
+      "state": "post",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [
         "Fandango"
       ],
@@ -368,9 +368,9 @@
       "home": "AFC Bournemouth",
       "away": "Nottingham Forest",
       "venue": "Vitality Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
       "awayScore": "0",
       "broadcasters": [
         "Peacock"
@@ -385,8 +385,8 @@
       "home": "Aston Villa",
       "away": "Sunderland",
       "venue": "Villa Park",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Full Time",
+      "state": "post",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
@@ -402,10 +402,10 @@
       "home": "Chelsea",
       "away": "Leeds United",
       "venue": "Stamford Bridge",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "4",
       "broadcasters": [
         "Peacock"
       ],
@@ -419,10 +419,10 @@
       "home": "Coventry City",
       "away": "Crystal Palace",
       "venue": "Coventry Building Society Arena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "3",
+      "awayScore": "2",
       "broadcasters": [
         "Peacock"
       ],
@@ -436,9 +436,9 @@
       "home": "Tottenham Hotspur",
       "away": "Ipswich Town",
       "venue": "Tottenham Hotspur Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
       "awayScore": "0",
       "broadcasters": [
         "USA Net",
@@ -454,10 +454,10 @@
       "home": "Rayo Vallecano",
       "away": "Valencia",
       "venue": "Estadio de Vallecas",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Full Time",
+      "state": "post",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [
         "ESPN Deportes",
         "ESPN+"
@@ -472,10 +472,10 @@
       "home": "Nice",
       "away": "Paris Saint-Germain",
       "venue": "Allianz Riviera",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
+      "awayScore": "3",
       "broadcasters": [
         "beIn Sports"
       ],
@@ -489,10 +489,10 @@
       "home": "Parma",
       "away": "AS Roma",
       "venue": "Ennio Tardini",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "1",
+      "awayScore": "5",
       "broadcasters": [
         "Paramount+"
       ],
@@ -506,10 +506,10 @@
       "home": "Newcastle United",
       "away": "Arsenal",
       "venue": "St. James' Park",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Second Half",
+      "state": "in",
+      "homeScore": "2",
+      "awayScore": "1",
       "broadcasters": [
         "USA Net",
         "Tele"
@@ -524,10 +524,10 @@
       "home": "Sevilla",
       "away": "Real Betis",
       "venue": "Ramón Sánchez Pizjuán Stadium",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Second Half",
+      "state": "in",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [
         "ESPN Deportes",
         "ESPN+"
@@ -542,8 +542,8 @@
       "home": "Schalke 04",
       "away": "VfB Stuttgart",
       "venue": "Veltins Arena",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Second Half",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
@@ -559,10 +559,10 @@
       "home": "Defensa y Justicia",
       "away": "Barracas Central",
       "venue": "Norberto Tomaghello",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Halftime",
+      "state": "in",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401933758"
     },
