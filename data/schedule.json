@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:29:12.143Z",
+  "updatedAt": "2026-11-22T13:14:43.915Z",
   "from": "2026-11-22",
   "through": "2026-11-29",
   "leagues": [
@@ -74,9 +74,9 @@
       "home": "Juventus",
       "away": "Venezia",
       "venue": "Allianz Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
+      "status": "Second Half",
+      "state": "in",
+      "homeScore": "4",
       "awayScore": "0",
       "broadcasters": [
         "Paramount+"
@@ -91,10 +91,10 @@
       "home": "Barcelona",
       "away": "Villarreal",
       "venue": "Spotify Camp Nou",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "First Half",
+      "state": "in",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "2",
       "broadcasters": [
         "ESPN Deportes",
         "ESPN+"
