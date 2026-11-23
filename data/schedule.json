@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-22T19:07:34.847Z",
-  "from": "2026-11-22",
-  "through": "2026-11-29",
+  "updatedAt": "2026-11-23T01:33:36.050Z",
+  "from": "2026-11-23",
+  "through": "2026-11-30",
   "leagues": [
     {
       "id": "eng.1",
@@ -66,458 +66,6 @@
   ],
   "failures": [],
   "matches": [
-    {
-      "id": "401875008",
-      "league": "ita.1",
-      "date": "2026-11-22T11:30Z",
-      "timeConfirmed": true,
-      "home": "Juventus",
-      "away": "Venezia",
-      "venue": "Allianz Stadium",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "4",
-      "awayScore": "0",
-      "broadcasters": [
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401875008"
-    },
-    {
-      "id": "401882804",
-      "league": "esp.1",
-      "date": "2026-11-22T13:00Z",
-      "timeConfirmed": true,
-      "home": "Barcelona",
-      "away": "Villarreal",
-      "venue": "Spotify Camp Nou",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "3",
-      "awayScore": "2",
-      "broadcasters": [
-        "ESPN Deportes",
-        "ESPN+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401882804"
-    },
-    {
-      "id": "401879234",
-      "league": "eng.1",
-      "date": "2026-11-22T14:00Z",
-      "timeConfirmed": true,
-      "home": "Hull City",
-      "away": "Brighton & Hove Albion",
-      "venue": "The MKM Stadium",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "2",
-      "awayScore": "0",
-      "broadcasters": [
-        "USA Net",
-        "Tele"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401879234"
-    },
-    {
-      "id": "401875047",
-      "league": "ita.1",
-      "date": "2026-11-22T14:00Z",
-      "timeConfirmed": true,
-      "home": "Bologna",
-      "away": "Udinese",
-      "venue": "Renato Dall'Ara",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "1",
-      "awayScore": "1",
-      "broadcasters": [
-        "CBSSN",
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401875047"
-    },
-    {
-      "id": "401874960",
-      "league": "ita.1",
-      "date": "2026-11-22T14:00Z",
-      "timeConfirmed": true,
-      "home": "Sassuolo",
-      "away": "Genoa",
-      "venue": "Mapei Stadium",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "0",
-      "awayScore": "2",
-      "broadcasters": [
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401874960"
-    },
-    {
-      "id": "401876397",
-      "league": "fra.1",
-      "date": "2026-11-22T14:00Z",
-      "timeConfirmed": true,
-      "home": "Paris FC",
-      "away": "Angers",
-      "venue": "Stade Jean Bouin",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "4",
-      "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876397"
-    },
-    {
-      "id": "401884733",
-      "league": "ger.1",
-      "date": "2026-11-22T14:30Z",
-      "timeConfirmed": true,
-      "home": "FC Augsburg",
-      "away": "Mainz",
-      "venue": "WWK Arena",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "3",
-      "awayScore": "1",
-      "broadcasters": [
-        "Fandango"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401884733"
-    },
-    {
-      "id": "401882800",
-      "league": "esp.1",
-      "date": "2026-11-22T15:15Z",
-      "timeConfirmed": true,
-      "home": "Racing Santander",
-      "away": "Real Sociedad",
-      "venue": "El Sardineros",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "3",
-      "awayScore": "2",
-      "broadcasters": [
-        "ESPN Deportes",
-        "ESPN+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401882800"
-    },
-    {
-      "id": "401876401",
-      "league": "fra.1",
-      "date": "2026-11-22T16:15Z",
-      "timeConfirmed": true,
-      "home": "Lorient",
-      "away": "Stade Rennais",
-      "venue": "Stade du Moustoir - Yves Allainmat",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "1",
-      "awayScore": "1",
-      "broadcasters": [
-        "beIn Sports"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876401"
-    },
-    {
-      "id": "401878755",
-      "league": "eng.1",
-      "date": "2026-11-22T16:30Z",
-      "timeConfirmed": true,
-      "home": "Liverpool",
-      "away": "Manchester United",
-      "venue": "Anfield",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "4",
-      "awayScore": "0",
-      "broadcasters": [
-        "USA Net",
-        "Tele"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401878755"
-    },
-    {
-      "id": "401884730",
-      "league": "ger.1",
-      "date": "2026-11-22T16:30Z",
-      "timeConfirmed": true,
-      "home": "Werder Bremen",
-      "away": "Hamburg SV",
-      "venue": "Weserstadion",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "4",
-      "awayScore": "0",
-      "broadcasters": [
-        "Fandango"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401884730"
-    },
-    {
-      "id": "401874989",
-      "league": "ita.1",
-      "date": "2026-11-22T17:00Z",
-      "timeConfirmed": true,
-      "home": "AC Milan",
-      "away": "Frosinone",
-      "venue": "San Siro",
-      "status": "Full Time",
-      "state": "post",
-      "homeScore": "5",
-      "awayScore": "1",
-      "broadcasters": [
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401874989"
-    },
-    {
-      "id": "401882801",
-      "league": "esp.1",
-      "date": "2026-11-22T17:30Z",
-      "timeConfirmed": true,
-      "home": "Osasuna",
-      "away": "Málaga",
-      "venue": "El Sadar",
-      "status": "Second Half",
-      "state": "in",
-      "homeScore": "1",
-      "awayScore": "0",
-      "broadcasters": [
-        "ESPN Deportes",
-        "ESPN+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401882801"
-    },
-    {
-      "id": "401841318",
-      "league": "bra.1",
-      "date": "2026-11-22T19:00Z",
-      "timeConfirmed": true,
-      "home": "Athletico-PR",
-      "away": "Remo",
-      "venue": "Arena da Baixada",
-      "status": "First Half",
-      "state": "in",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841318"
-    },
-    {
-      "id": "401933759",
-      "league": "arg.1",
-      "date": "2026-11-22T19:00Z",
-      "timeConfirmed": true,
-      "home": "Rosario Central",
-      "away": "Gimnasia (Mendoza)",
-      "venue": "Gigante de Arroyito",
-      "status": "First Half",
-      "state": "in",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933759"
-    },
-    {
-      "id": "401875001",
-      "league": "ita.1",
-      "date": "2026-11-22T19:45Z",
-      "timeConfirmed": true,
-      "home": "Atalanta",
-      "away": "Internazionale",
-      "venue": "New Balance Arena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Paramount+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401875001"
-    },
-    {
-      "id": "401876400",
-      "league": "fra.1",
-      "date": "2026-11-22T19:45Z",
-      "timeConfirmed": true,
-      "home": "Marseille",
-      "away": "Le Mans",
-      "venue": "Stade Vélodrome",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876400"
-    },
-    {
-      "id": "401882803",
-      "league": "esp.1",
-      "date": "2026-11-22T20:00Z",
-      "timeConfirmed": true,
-      "home": "Getafe",
-      "away": "Atlético Madrid",
-      "venue": "Estadio Coliseum",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "ESPN Deportes",
-        "ESPN+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401882803"
-    },
-    {
-      "id": "401933731",
-      "league": "usa.1",
-      "date": "2026-11-22T21:00Z",
-      "timeConfirmed": true,
-      "home": "Nashville SC",
-      "away": "FC Cincinnati",
-      "venue": "GEODIS Park",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "FS1",
-        "Apple TV"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933731"
-    },
-    {
-      "id": "401841324",
-      "league": "bra.1",
-      "date": "2026-11-22T21:30Z",
-      "timeConfirmed": true,
-      "home": "Fluminense",
-      "away": "Mirassol",
-      "venue": "Estadio do Maracana",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841324"
-    },
-    {
-      "id": "401933761",
-      "league": "arg.1",
-      "date": "2026-11-22T22:00Z",
-      "timeConfirmed": true,
-      "home": "River Plate",
-      "away": "Lanús",
-      "venue": "Estadio Más Monumental",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933761"
-    },
-    {
-      "id": "401841321",
-      "league": "bra.1",
-      "date": "2026-11-22T22:30Z",
-      "timeConfirmed": true,
-      "home": "Red Bull Bragantino",
-      "away": "Vasco da Gama",
-      "venue": "Estádio Municipal Cicero de Souza Marques",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841321"
-    },
-    {
-      "id": "401877047",
-      "league": "mex.1",
-      "date": "2026-11-22T23:07Z",
-      "timeConfirmed": true,
-      "home": "Guadalajara",
-      "away": "Cruz Azul",
-      "venue": "Estadio Akron",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401877047"
-    },
-    {
-      "id": "401933730",
-      "league": "usa.1",
-      "date": "2026-11-22T23:30Z",
-      "timeConfirmed": true,
-      "home": "Chicago Fire FC",
-      "away": "Charlotte FC",
-      "venue": "SeatGeek Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "FS1",
-        "Apple TV"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933730"
-    },
-    {
-      "id": "401933762",
-      "league": "arg.1",
-      "date": "2026-11-23T01:00Z",
-      "timeConfirmed": true,
-      "home": "Instituto (Córdoba)",
-      "away": "Huracán",
-      "venue": "Mario Alberto Kempes",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933762"
-    },
-    {
-      "id": "401877046",
-      "league": "mex.1",
-      "date": "2026-11-23T01:10Z",
-      "timeConfirmed": true,
-      "home": "Querétaro",
-      "away": "Necaxa",
-      "venue": "Estadio Corregidora",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401877046"
-    },
-    {
-      "id": "401933729",
-      "league": "usa.1",
-      "date": "2026-11-23T01:30Z",
-      "timeConfirmed": true,
-      "home": "Vancouver Whitecaps",
-      "away": "Real Salt Lake",
-      "venue": "BC Place",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Apple TV"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933729"
-    },
     {
       "id": "401875009",
       "league": "ita.1",
@@ -2241,6 +1789,21 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401882788"
     },
     {
+      "id": "401936353",
+      "league": "arg.1",
+      "date": "2026-11-29T20:00Z",
+      "timeConfirmed": false,
+      "home": "Vélez Sarsfield",
+      "away": "Independiente",
+      "venue": "José Amalfitani",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401936353"
+    },
+    {
       "id": "401841334",
       "league": "bra.1",
       "date": "2026-11-29T21:30Z",
@@ -2299,6 +1862,58 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841328"
+    },
+    {
+      "id": "401875095",
+      "league": "ita.1",
+      "date": "2026-11-30T17:30Z",
+      "timeConfirmed": true,
+      "home": "Lecce",
+      "away": "Atalanta",
+      "venue": "Via Del Mare",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875095"
+    },
+    {
+      "id": "401875019",
+      "league": "ita.1",
+      "date": "2026-11-30T19:45Z",
+      "timeConfirmed": true,
+      "home": "Cagliari",
+      "away": "AC Milan",
+      "venue": "Unipol Domus",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401875019"
+    },
+    {
+      "id": "401882792",
+      "league": "esp.1",
+      "date": "2026-11-30T20:00Z",
+      "timeConfirmed": true,
+      "home": "Espanyol",
+      "away": "Getafe",
+      "venue": "RCDE Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882792"
     }
   ]
 }
