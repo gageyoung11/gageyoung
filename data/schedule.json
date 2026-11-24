@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T13:34:33.381Z",
+  "updatedAt": "2026-11-24T19:18:19.953Z",
   "from": "2026-11-24",
   "through": "2026-12-01",
   "leagues": [
@@ -74,8 +74,8 @@
       "home": "Bodo/Glimt",
       "away": "LASK Linz",
       "venue": "Aspmyra Stadion",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Second Half",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
@@ -91,8 +91,8 @@
       "home": "Galatasaray",
       "away": "Aston Villa",
       "venue": "RAMS Park",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Second Half",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
@@ -1046,21 +1046,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401878752"
     },
     {
-      "id": "401884726",
-      "league": "ger.1",
-      "date": "2026-11-28T17:30Z",
-      "timeConfirmed": true,
-      "home": "VfB Stuttgart",
-      "away": "Eintracht Frankfurt",
-      "venue": "MHPArena",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401884726"
-    },
-    {
       "id": "401882793",
       "league": "esp.1",
       "date": "2026-11-28T17:30Z",
@@ -1077,6 +1062,21 @@
         "ESPN+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401882793"
+    },
+    {
+      "id": "401884726",
+      "league": "ger.1",
+      "date": "2026-11-28T17:30Z",
+      "timeConfirmed": true,
+      "home": "VfB Stuttgart",
+      "away": "Eintracht Frankfurt",
+      "venue": "MHPArena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884726"
     },
     {
       "id": "401933737",
