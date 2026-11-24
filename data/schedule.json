@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T01:31:47.086Z",
+  "updatedAt": "2026-11-24T07:39:55.391Z",
   "from": "2026-11-24",
   "through": "2026-12-01",
   "leagues": [
@@ -541,6 +541,36 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401933757"
     },
     {
+      "id": "401931986",
+      "league": "mex.1",
+      "date": "2026-11-26T01:00Z",
+      "timeConfirmed": true,
+      "home": "Toluca",
+      "away": "Atlas",
+      "venue": "Estadio Nemesio Díez Riega",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401931986"
+    },
+    {
+      "id": "401931998",
+      "league": "mex.1",
+      "date": "2026-11-26T03:10Z",
+      "timeConfirmed": true,
+      "home": "Monterrey",
+      "away": "América",
+      "venue": "Estadio BBVA",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401931998"
+    },
+    {
       "id": "401841329",
       "league": "bra.1",
       "date": "2026-11-26T23:00Z",
@@ -554,6 +584,36 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841329"
+    },
+    {
+      "id": "401931982",
+      "league": "mex.1",
+      "date": "2026-11-27T01:00Z",
+      "timeConfirmed": true,
+      "home": "Pachuca",
+      "away": "Guadalajara",
+      "venue": "Estadio Hidalgo",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401931982"
+    },
+    {
+      "id": "401931995",
+      "league": "mex.1",
+      "date": "2026-11-27T03:10Z",
+      "timeConfirmed": true,
+      "home": "León",
+      "away": "Cruz Azul",
+      "venue": "Estadio León",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401931995"
     },
     {
       "id": "401892133",
@@ -1197,6 +1257,21 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401841336"
     },
     {
+      "id": "401931997",
+      "league": "mex.1",
+      "date": "2026-11-29T01:00Z",
+      "timeConfirmed": true,
+      "home": "Atlas",
+      "away": "Toluca",
+      "venue": "Estadio Jalisco",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401931997"
+    },
+    {
       "id": "401933726",
       "league": "usa.1",
       "date": "2026-11-29T01:30Z",
@@ -1212,6 +1287,21 @@
         "Apple TV"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401933726"
+    },
+    {
+      "id": "401931996",
+      "league": "mex.1",
+      "date": "2026-11-29T03:10Z",
+      "timeConfirmed": true,
+      "home": "América",
+      "away": "Monterrey",
+      "venue": "Estadio Banorte",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401931996"
     },
     {
       "id": "401933721",
@@ -1732,6 +1822,36 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841328"
+    },
+    {
+      "id": "401931983",
+      "league": "mex.1",
+      "date": "2026-11-30T01:07Z",
+      "timeConfirmed": true,
+      "home": "Guadalajara",
+      "away": "Pachuca",
+      "venue": "Estadio Akron",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401931983"
+    },
+    {
+      "id": "401932000",
+      "league": "mex.1",
+      "date": "2026-11-30T03:00Z",
+      "timeConfirmed": true,
+      "home": "Cruz Azul",
+      "away": "León",
+      "venue": "Estadio Banorte",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401932000"
     },
     {
       "id": "401875095",
