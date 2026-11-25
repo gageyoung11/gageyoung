@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:38:07.656Z",
+  "updatedAt": "2026-11-25T07:42:50.654Z",
   "from": "2026-11-25",
   "through": "2026-12-02",
   "leagues": [
@@ -458,7 +458,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884720"
     },
     {
@@ -490,7 +492,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876392"
     },
     {
@@ -505,7 +509,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Universo"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879225"
     },
     {
@@ -572,6 +579,7 @@
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
+        "FOX",
         "FS1",
         "Apple TV"
       ],
@@ -716,7 +724,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884721"
     },
     {
@@ -731,7 +741,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884722"
     },
     {
@@ -746,7 +758,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884723"
     },
     {
@@ -761,7 +775,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884719"
     },
     {
@@ -776,7 +792,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Universo"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879227"
     },
     {
@@ -791,7 +810,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879226"
     },
     {
@@ -824,7 +845,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876394"
     },
     {
@@ -856,7 +879,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Tele"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401878752"
     },
     {
@@ -889,7 +915,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884726"
     },
     {
@@ -955,7 +983,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876391"
     },
     {
@@ -970,7 +1000,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876390"
     },
     {
@@ -985,7 +1017,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876388"
     },
     {
@@ -1000,7 +1034,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876387"
     },
     {
@@ -1240,7 +1276,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Universo"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879229"
     },
     {
@@ -1291,7 +1330,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876393"
     },
     {
@@ -1306,7 +1347,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Universo"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879231"
     },
     {
@@ -1321,7 +1365,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879230"
     },
     {
@@ -1336,7 +1382,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879228"
     },
     {
@@ -1351,7 +1399,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Peacock"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879224"
     },
     {
@@ -1366,7 +1416,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884724"
     },
     {
@@ -1399,7 +1451,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876386"
     },
     {
@@ -1414,7 +1468,10 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "USA Net",
+        "Tele"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401878753"
     },
     {
@@ -1429,7 +1486,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884725"
     },
     {
@@ -1479,7 +1538,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "Fandango"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401884727"
     },
     {
@@ -1541,7 +1602,9 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [],
+      "broadcasters": [
+        "beIn Sports"
+      ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876389"
     },
     {
