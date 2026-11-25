@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T13:40:18.709Z",
+  "updatedAt": "2026-11-25T19:13:45.867Z",
   "from": "2026-11-25",
   "through": "2026-12-02",
   "leagues": [
@@ -179,10 +179,10 @@
       "home": "Sabah FK",
       "away": "Barcelona",
       "venue": "Baku Olympic Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Second Half",
+      "state": "in",
+      "homeScore": "1",
+      "awayScore": "4",
       "broadcasters": [
         "Paramount+"
       ],
@@ -196,10 +196,10 @@
       "home": "Slavia Prague",
       "away": "Villarreal",
       "venue": "Fortuna Arena",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "Second Half",
+      "state": "in",
       "homeScore": "0",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [
         "Paramount+"
       ],
@@ -1624,6 +1624,36 @@
         "ESPN+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401882788"
+    },
+    {
+      "id": "401936413",
+      "league": "arg.1",
+      "date": "2026-11-29T20:00Z",
+      "timeConfirmed": false,
+      "home": "Instituto (Córdoba)",
+      "away": "River Plate",
+      "venue": "Monumental Presidente Perón",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401936413"
+    },
+    {
+      "id": "401936373",
+      "league": "arg.1",
+      "date": "2026-11-29T20:00Z",
+      "timeConfirmed": false,
+      "home": "Rosario Central",
+      "away": "Barracas Central",
+      "venue": "Gigante de Arroyito",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401936373"
     },
     {
       "id": "401936353",
