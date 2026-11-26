@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T07:41:41.166Z",
+  "updatedAt": "2026-11-26T13:39:37.369Z",
   "from": "2026-11-26",
   "through": "2026-12-03",
   "leagues": [
@@ -756,6 +756,21 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401933723"
     },
     {
+      "id": "401936353",
+      "league": "arg.1",
+      "date": "2026-11-28T23:00Z",
+      "timeConfirmed": true,
+      "home": "Vélez Sarsfield",
+      "away": "Independiente",
+      "venue": "José Amalfitani",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401936353"
+    },
+    {
       "id": "401933722",
       "league": "usa.1",
       "date": "2026-11-28T23:30Z",
@@ -801,6 +816,21 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401931997"
+    },
+    {
+      "id": "401936413",
+      "league": "arg.1",
+      "date": "2026-11-29T01:00Z",
+      "timeConfirmed": true,
+      "home": "Instituto (Córdoba)",
+      "away": "River Plate",
+      "venue": "Monumental Presidente Perón",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401936413"
     },
     {
       "id": "401933726",
@@ -1307,25 +1337,10 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401882788"
     },
     {
-      "id": "401936413",
-      "league": "arg.1",
-      "date": "2026-11-29T20:00Z",
-      "timeConfirmed": false,
-      "home": "Instituto (Córdoba)",
-      "away": "River Plate",
-      "venue": "Monumental Presidente Perón",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401936413"
-    },
-    {
       "id": "401936373",
       "league": "arg.1",
       "date": "2026-11-29T20:00Z",
-      "timeConfirmed": false,
+      "timeConfirmed": true,
       "home": "Rosario Central",
       "away": "Barracas Central",
       "venue": "Gigante de Arroyito",
@@ -1335,21 +1350,6 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401936373"
-    },
-    {
-      "id": "401936353",
-      "league": "arg.1",
-      "date": "2026-11-29T20:00Z",
-      "timeConfirmed": false,
-      "home": "Vélez Sarsfield",
-      "away": "Independiente",
-      "venue": "José Amalfitani",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401936353"
     },
     {
       "id": "401841334",
