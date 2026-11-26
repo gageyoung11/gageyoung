@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T01:38:06.590Z",
+  "updatedAt": "2026-11-26T07:41:41.166Z",
   "from": "2026-11-26",
   "through": "2026-12-03",
   "leagues": [
@@ -180,24 +180,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401876392"
     },
     {
-      "id": "401882791",
-      "league": "esp.1",
-      "date": "2026-11-27T20:00Z",
-      "timeConfirmed": true,
-      "home": "Levante",
-      "away": "Racing Santander",
-      "venue": "Estadi Ciutat de València",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "ESPN Deportes",
-        "ESPN+"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401882791"
-    },
-    {
       "id": "401879225",
       "league": "eng.1",
       "date": "2026-11-27T20:00Z",
@@ -214,6 +196,24 @@
         "Universo"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401879225"
+    },
+    {
+      "id": "401882791",
+      "league": "esp.1",
+      "date": "2026-11-27T20:00Z",
+      "timeConfirmed": true,
+      "home": "Levante",
+      "away": "Racing Santander",
+      "venue": "Estadi Ciutat de València",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN Deportes",
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882791"
     },
     {
       "id": "401841337",
@@ -261,7 +261,6 @@
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
-        "FOX",
         "FS1",
         "Apple TV"
       ],
