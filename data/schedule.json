@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T13:39:37.369Z",
+  "updatedAt": "2026-11-26T19:19:10.826Z",
   "from": "2026-11-26",
   "through": "2026-12-03",
   "leagues": [
@@ -1410,6 +1410,21 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841328"
+    },
+    {
+      "id": "401936657",
+      "league": "arg.1",
+      "date": "2026-11-29T23:30Z",
+      "timeConfirmed": true,
+      "home": "Boca Juniors",
+      "away": "Gimnasia La Plata",
+      "venue": "Alberto José Armando (La Bombonera)",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401936657"
     },
     {
       "id": "401931983",
