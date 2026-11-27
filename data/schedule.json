@@ -1,7 +1,7 @@
 {
-  "updatedAt": "2026-11-26T19:19:10.826Z",
-  "from": "2026-11-26",
-  "through": "2026-12-03",
+  "updatedAt": "2026-11-27T01:40:07.401Z",
+  "from": "2026-11-27",
+  "through": "2026-12-04",
   "leagues": [
     {
       "id": "eng.1",
@@ -66,51 +66,6 @@
   ],
   "failures": [],
   "matches": [
-    {
-      "id": "401841329",
-      "league": "bra.1",
-      "date": "2026-11-26T23:00Z",
-      "timeConfirmed": true,
-      "home": "São Paulo",
-      "away": "Remo",
-      "venue": "Estádio Cícero Pompeu de Toledo",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401841329"
-    },
-    {
-      "id": "401931982",
-      "league": "mex.1",
-      "date": "2026-11-27T01:00Z",
-      "timeConfirmed": true,
-      "home": "Pachuca",
-      "away": "Guadalajara",
-      "venue": "Estadio Hidalgo",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401931982"
-    },
-    {
-      "id": "401931995",
-      "league": "mex.1",
-      "date": "2026-11-27T03:10Z",
-      "timeConfirmed": true,
-      "home": "León",
-      "away": "Cruz Azul",
-      "venue": "Estadio León",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401931995"
-    },
     {
       "id": "401892133",
       "league": "aus.1",
@@ -664,9 +619,7 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
+      "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876391"
     },
     {
@@ -681,9 +634,7 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
+      "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876390"
     },
     {
@@ -698,9 +649,7 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
+      "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876388"
     },
     {
@@ -715,9 +664,7 @@
       "state": "pre",
       "homeScore": "0",
       "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
+      "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401876387"
     },
     {
@@ -1981,6 +1928,100 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401878749"
+    },
+    {
+      "id": "401877522",
+      "league": "jpn.1",
+      "date": "2026-12-04T09:30Z",
+      "timeConfirmed": true,
+      "home": "FC Tokyo",
+      "away": "Kawasaki Frontale",
+      "venue": "Japan National Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877522"
+    },
+    {
+      "id": "401884718",
+      "league": "ger.1",
+      "date": "2026-12-04T19:30Z",
+      "timeConfirmed": true,
+      "home": "Bayern Munich",
+      "away": "SC Paderborn 07",
+      "venue": "Allianz Arena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401884718"
+    },
+    {
+      "id": "401874984",
+      "league": "ita.1",
+      "date": "2026-12-04T19:45Z",
+      "timeConfirmed": true,
+      "home": "Bologna",
+      "away": "AS Roma",
+      "venue": "Renato Dall'Ara",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Paramount+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401874984"
+    },
+    {
+      "id": "401876378",
+      "league": "fra.1",
+      "date": "2026-12-04T19:45Z",
+      "timeConfirmed": true,
+      "home": "Toulouse",
+      "away": "Paris Saint-Germain",
+      "venue": "Stadium Municipal de Toulouse",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876378"
+    },
+    {
+      "id": "401882786",
+      "league": "esp.1",
+      "date": "2026-12-04T20:00Z",
+      "timeConfirmed": true,
+      "home": "Alavés",
+      "away": "Espanyol",
+      "venue": "Mendizorrotza",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "ESPN+"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401882786"
+    },
+    {
+      "id": "401877514",
+      "league": "jpn.1",
+      "date": "2026-12-05T04:00Z",
+      "timeConfirmed": true,
+      "home": "JEF United Ichihara-Chiba",
+      "away": "Kashima Antlers",
+      "venue": "Fukuda Denshi Arena",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401877514"
     }
   ]
 }
