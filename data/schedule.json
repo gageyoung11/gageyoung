@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T13:35:22.639Z",
+  "updatedAt": "2026-11-27T19:15:59.251Z",
   "from": "2026-11-27",
   "through": "2026-12-04",
   "leagues": [
@@ -101,23 +101,6 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401884720"
     },
     {
-      "id": "401876392",
-      "league": "fra.1",
-      "date": "2026-11-27T19:45Z",
-      "timeConfirmed": true,
-      "home": "Brest",
-      "away": "Paris FC",
-      "venue": "Stade Francis-Le Blé",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "beIn Sports"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401876392"
-    },
-    {
       "id": "401875004",
       "league": "ita.1",
       "date": "2026-11-27T19:45Z",
@@ -133,6 +116,23 @@
         "Paramount+"
       ],
       "url": "https://www.espn.com/soccer/match/_/gameId/401875004"
+    },
+    {
+      "id": "401876392",
+      "league": "fra.1",
+      "date": "2026-11-27T19:45Z",
+      "timeConfirmed": true,
+      "home": "Brest",
+      "away": "Paris FC",
+      "venue": "Stade Francis-Le Blé",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "beIn Sports"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401876392"
     },
     {
       "id": "401879225",
@@ -1646,6 +1646,23 @@
       "url": "https://www.espn.com/soccer/match/_/gameId/401933719"
     },
     {
+      "id": "401933720",
+      "league": "usa.1",
+      "date": "2026-12-03T00:30Z",
+      "timeConfirmed": true,
+      "home": "Inter Miami CF",
+      "away": "Columbus Crew",
+      "venue": "Nu Stadium",
+      "status": "Scheduled",
+      "state": "pre",
+      "homeScore": "0",
+      "awayScore": "0",
+      "broadcasters": [
+        "Apple TV"
+      ],
+      "url": "https://www.espn.com/soccer/match/_/gameId/401933720"
+    },
+    {
       "id": "401841338",
       "league": "bra.1",
       "date": "2026-12-03T00:30Z",
@@ -1794,23 +1811,6 @@
       "awayScore": "0",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401841342"
-    },
-    {
-      "id": "401933720",
-      "league": "usa.1",
-      "date": "2026-12-03T00:30Z",
-      "timeConfirmed": true,
-      "home": "Inter Miami CF",
-      "away": "Columbus Crew",
-      "venue": "Nu Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
-      "broadcasters": [
-        "Apple TV"
-      ],
-      "url": "https://www.espn.com/soccer/match/_/gameId/401933720"
     },
     {
       "id": "401933718",
