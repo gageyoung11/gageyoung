@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-28T07:33:51.769Z",
+  "updatedAt": "2026-11-28T13:19:24.398Z",
   "from": "2026-11-28",
   "through": "2026-12-05",
   "leagues": [
@@ -104,10 +104,10 @@
       "home": "Kashima Antlers",
       "away": "Fagiano Okayama",
       "venue": "Kashima Soccer Stadium",
-      "status": "Second Half",
-      "state": "in",
+      "status": "Full Time",
+      "state": "post",
       "homeScore": "1",
-      "awayScore": "0",
+      "awayScore": "1",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401877542"
     },
@@ -119,9 +119,9 @@
       "home": "Vissel Kobe",
       "away": "JEF United Ichihara-Chiba",
       "venue": "Kobe Wing Stadium",
-      "status": "Second Half",
-      "state": "in",
-      "homeScore": "1",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "3",
       "awayScore": "1",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401877516"
@@ -134,9 +134,9 @@
       "home": "Kashiwa Reysol",
       "away": "Sanfrecce Hiroshima",
       "venue": "Sankyo Frontier Kashiwa Stadium",
-      "status": "First Half",
-      "state": "in",
-      "homeScore": "2",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "3",
       "awayScore": "1",
       "broadcasters": [],
       "url": "https://www.espn.com/soccer/match/_/gameId/401877525"
@@ -149,10 +149,10 @@
       "home": "Central Coast Mariners FC",
       "away": "Auckland FC",
       "venue": "Central Coast Stadium",
-      "status": "Scheduled",
-      "state": "pre",
-      "homeScore": "0",
-      "awayScore": "0",
+      "status": "Full Time",
+      "state": "post",
+      "homeScore": "2",
+      "awayScore": "3",
       "broadcasters": [
         "ESPN+"
       ],
@@ -166,8 +166,8 @@
       "home": "Real Betis",
       "away": "Rayo Vallecano",
       "venue": "Estadio La Cartuja",
-      "status": "Scheduled",
-      "state": "pre",
+      "status": "First Half",
+      "state": "in",
       "homeScore": "0",
       "awayScore": "0",
       "broadcasters": [
